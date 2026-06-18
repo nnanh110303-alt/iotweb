@@ -1,4 +1,4 @@
 .idea
 .access-token
-build/
+build
 new.py
