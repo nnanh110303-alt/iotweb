@@ -1,4 +1,3 @@
-rưqr21r21r21
-121t21r21r12
-12t21r21r21r
-12r12r1r21r21
+import os
+
+print(os.listdir(os.getcwd()))
