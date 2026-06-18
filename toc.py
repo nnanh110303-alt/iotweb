@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# code này mới lấy từ github
 #
 # Sebastian Raschka 2014-2015
 #
